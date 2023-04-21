@@ -1,0 +1,2 @@
+#!/bin/sh
+chisel server --auth password --port 7860
