@@ -1,2 +1,3 @@
 #!/bin/sh
+sleep 90
 chisel server --auth password --port 7860
